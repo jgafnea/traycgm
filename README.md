@@ -6,7 +6,7 @@ Displays glucose readings from Dexcom in system tray.
 
 Uses [pydexcom](https://github.com/gagebenne/pydexcom) and PyGObject.
 
-### Installation
+### Usage
 
 1. Clone project
 2. Install dependencies
