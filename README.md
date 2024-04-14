@@ -10,5 +10,5 @@ Uses [pydexcom](https://github.com/gagebenne/pydexcom) and PyGObject.
 
 1. Clone project
 2. Install dependencies
-3. Add Dexcom credentials to `.env`
+3. Rename file `.env.example` as `.env` and add Dexcom credentials
 4. Run `app.py`
